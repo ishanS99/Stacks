@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1532511092 source:d:\ishan\programs\ds\balancedparanthesis\main.cpp
+	<iostream>
+	<string.h>
+
